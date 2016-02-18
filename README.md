@@ -8,7 +8,7 @@ A JS util to select a property from an object, and if it doesn't exist, return a
 To start using this library, first install the package:
 
 ```bash
-npm install react-fluxible-utils --save
+npm install js-select-from-object --save
 ```
 
 ## Usage
