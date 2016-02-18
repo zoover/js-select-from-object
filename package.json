@@ -1,0 +1,35 @@
+{
+  "name": "js-select-from-object",
+  "version": "0.0.1",
+  "description": "A JS util to select a property from an object, without throwing errors.",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zoover",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zoover/js-select-from-object.git"
+  },
+  "license": "ISC",
+  "keywords": [
+    "JS",
+    "select",
+    "property",
+    "object",
+    "errors"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-eslint": "^5.0.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-2": "^6.3.13",
+    "eslint-config-airbnb": "^5.0.0",
+    "eslint-plugin-react": "^3.16.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-eslint": "^1.1.1"
+  }
+}
